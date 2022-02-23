@@ -5,7 +5,7 @@
         <a href="https://www.youtube.com/channel/UCRjdcEIVaMq5mJsyP9BzcAw"> <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/> </a>
         <a href="https://www.instagram.com/ravaattar/"> <img src="https://img.shields.io/badge/instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/> </a>
     </div> 
-    <img src="https://komarev.com/ghpvc/?username=sivaren&style=flat-square&color=blue" alt="views"/>
+    <img src="https://komarev.com/ghpvc/?username=sivaren&style=flat-square&color=blue" alt=""/>
     <h1>
         Hi there
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
