@@ -6,10 +6,10 @@
         <a href="https://www.instagram.com/ravaattar/"> <img src="https://img.shields.io/badge/instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/> </a>
     </div> 
     <img src="https://komarev.com/ghpvc/?username=sivaren&style=flat-square&color=blue" alt=""/>
-    <h1>
+<!--     <h1>
         Hi there
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    </h1>
+    </h1> -->
     <div align="center">
         <img src="https://user-images.githubusercontent.com/88304340/155299461-2b6e0943-e642-4148-be6b-5655892754dd.jpg" width="410" height="272"/>
     </div>
