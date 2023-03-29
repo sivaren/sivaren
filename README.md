@@ -16,7 +16,7 @@
 ### 🧙‍♂️ About Me:
 I am a third-year Informatics student who is interested in Software Engineering and has experience in Web Development. Often to think creatively and be an adaptable person. Personally eager to learn and always do self-improvement to give maximum contribution in every place.
 
-- 🌱 I’m currently learning Ethical Hacking
+- 🌱 I’m currently learning Cyber Security
 - ⚡ I do memorize the national anthem of Thailand
 - 📫 Reach me from <a href="https://www.linkedin.com/in/rava-naufal-attar/"> LinkedIn </a>
 
