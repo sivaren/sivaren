@@ -14,7 +14,7 @@
 ---
 
 ### 🧙‍♂️ About Me:
-Skillful and fast-learner third-year Informatics student with a background in Software Engineering and Web Development. I am also interested in exploring data-related roles and have a strong foundation in database management systems and SQL. Often to think creatively and be an adaptable person. Personally eager to learn and always do self-improvement to give maximum contribution in every place. 
+Skillful and fast learner third-year Computer Science student with a background in Software Engineering and Web Development. I am also interested in exploring data-related roles and have a strong foundation in database management systems and SQL. Often to think creatively and be an adaptable person. Personally eager to learn and always do self-improvement to give maximum contribution in every place.
 
 - 🌱 I’m currently learning Cyber Security
 - ⚡ I do memorize the national anthem of Thailand
