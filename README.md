@@ -14,7 +14,7 @@
 ---
 
 ### 🧙‍♂️ About Me:
-Skillful and fast learner final year Computer Science student with a background in Software Engineering and Web Development. I am also interested in the Machine Learning area and have a strong foundation in Database Management Systems. Often to think creatively and be an adaptable person. Personally eager to learn and always do self-improvement to give maximum contribution in every place.
+Skillful and fast learner final year Computer Science student with a background in Software Engineering and Web Development. I am also interested in Cyber Security field. Often to think creatively and be an adaptable person. Personally eager to learn and always do self-improvement to give maximum contribution in every place.
 
 - 🌱 I’m currently learning Cyber Security
 - ⚡ I do memorize the national anthem of Thailand
