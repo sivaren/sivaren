@@ -21,7 +21,7 @@ I have a keen interest in finance and economics. I have been actively investing 
 I firmly believe that empathy can transform the world into a better place to live.
 Fun fact, I can memorize and sing the national anthem of Thailand.
 
-- 🌱 I’m currently learning Cyber Security
+- 🌱 I’m currently interested in Cybersecurity and Web3
 - ⚡ I do memorize the national anthem of Thailand
 - 📫 Reach me from <a href="https://www.linkedin.com/in/rava-naufal-attar/"> LinkedIn </a>
 
