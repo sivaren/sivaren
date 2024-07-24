@@ -14,7 +14,7 @@
 ---
 
 ### 🧙‍♂️ About Me:
-Hi, folks! My name is Rava Attar, and people often joke that I'm Raffi Ahmad's son. I'm a Computer Science graduate from Institut Teknologi Bandung with a strong background in Software Engineering and Web Development. Currently, I am deeply interested in the field of Cybersecurity.
+Hi, folks! My name is Rava Attar, and people often joke that I'm Raffi Ahmad's son. I'm a Computer Science graduate from Institut Teknologi Bandung with a strong background in Software Engineering and Web Development. Currently, I am deeply interested in the field of Cybersecurity and Web3.
 
 I have a keen interest in finance and economics. I have been actively investing in the Indonesian stock market since 2020. Recently, I discovered the potential of blockchain technology in the financial system, leading me to allocate my assets into cryptocurrency.
 
