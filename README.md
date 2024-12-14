@@ -14,14 +14,14 @@
 ---
 
 ### 🧙‍♂️ About Me:
-Hi, folks! My name is Rava Attar, and people often joke that I'm Raffi Ahmad's son. I'm a Computer Science graduate from Institut Teknologi Bandung with a strong background in Software Engineering and Web Development. Currently, I am deeply interested in the field of Cybersecurity and Web3.
+Hi, folks! My name is Rava Attar, and people often joke that I'm Raffi Ahmad's son. I'm a Computer Science graduate from Institut Teknologi Bandung with a strong background in Software Engineering and Web Development. Currently, I am deeply interested in the field of Web3.
 
 I have a keen interest in finance and economics. I have been actively investing in the Indonesian stock market since 2020. Recently, I discovered the potential of blockchain technology in the financial system, leading me to allocate my assets into cryptocurrency.
 
 I firmly believe that empathy can transform the world into a better place to live.
 Fun fact, I can memorize and sing the national anthem of Thailand.
 
-- 🌱 I’m currently interested in Cybersecurity and Web3
+- 🌱 I’m currently interested in Web3
 - ⚡ I do memorize the national anthem of Thailand
 - 📫 Reach me from <a href="https://www.linkedin.com/in/rava-naufal-attar/"> LinkedIn </a>
 
