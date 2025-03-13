@@ -14,11 +14,11 @@
 ---
 
 ### 🧙‍♂️ About Me:
-Hi, folks! My name is Rava Attar, and people often joke that I'm Raffi Ahmad's son. I'm a Computer Science graduate from Institut Teknologi Bandung with a strong background in Software Engineering and Web Development. Currently, I am deeply interested in the field of Web3.
+Hi, folks! My name is **Rava Attar**, and people often joke that I'm Raffi Ahmad's son. I'm a **Computer Science graduate** from Institut Teknologi Bandung with a strong background in **Software Engineering.** Currently, I am deeply interested in the field of **Web3.**
 
-I have a keen interest in finance and economics. I have been actively investing in the Indonesian stock market since 2020. Recently, I discovered the potential of blockchain technology in the financial system, leading me to allocate my assets into cryptocurrency.
+I have a keen interest in **finance and economics.** I have been actively investing in the Indonesian stock market since 2020. Recently, I discovered the potential of blockchain technology in the financial system, leading me to allocate my assets into **cryptocurrency.**
 
-I firmly believe that empathy can transform the world into a better place to live.
+I firmly believe that **empathy** can transform the world into a better place to live.
 Fun fact, I can memorize and sing the national anthem of Thailand.
 
 - 🌱 I’m currently interested in Web3
@@ -29,15 +29,17 @@ Fun fact, I can memorize and sing the national anthem of Thailand.
 
 ### :hammer_and_wrench: Languages and Tools:
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GoogleCloud" alt="GoogleCloud" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
 ---
